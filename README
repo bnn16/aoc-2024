@@ -26,4 +26,3 @@ Each day's challenge has its solution in either JavaScript or C. If the folder c
    gcc dayX.c -o dayX
    ./dayX
    ```
-    
