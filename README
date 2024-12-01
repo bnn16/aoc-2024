@@ -1,0 +1,29 @@
+# Advent of Code 2024 Solutions
+
+This repository contains my solutions for **Advent of Code 2024** challenges. The solutions are implemented in two languages:
+
+- **JavaScript**: For flexible and quick solutions.
+- **C**: For more performance-oriented solutions.
+
+Each day's challenge has its solution in either JavaScript or C. If the folder contains a `.js` file, use **Node.js** to run it. If the folder contains a `.c` file, use **GCC** to compile and run it.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bnn16/aoc-2024.git
+   ```
+
+2. Navigate to the respective day's folder.
+
+3. If the folder contains a `.js` file, run the solution with Node.js:
+   ```bash
+   node dayX.js
+   ```
+
+4. If the folder contains a `.c` file, compile and run the program with GCC:
+   ```bash
+   gcc dayX.c -o dayX
+   ./dayX
+   ```
+    

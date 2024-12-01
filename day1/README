@@ -1,0 +1,15 @@
+# Advent of Code 2024 - Day 1: Historian Hysteria
+
+## Challenge Overview
+
+The challenge involves reconciling two lists of location IDs collected by Elvish Senior Historians searching for the missing Chief Historian.
+
+### Part One
+- Calculate total distance between two lists of location IDs
+- Pair numbers from each list by sorting
+- Compute absolute difference between paired numbers
+- Sum these differences
+
+### Part Two
+- Calculate similarity score by multiplying each left list number by its frequency in right list
+- Sum these products
